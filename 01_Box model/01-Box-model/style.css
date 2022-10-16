@@ -4,9 +4,8 @@ html { box-sizing: border-box; }
 
 
 .ramecek {
-    border-bottom:	4px double pink;
-}
-
+    border-bottom:	5px double pink;
+    margin: 20px 30px
 .sirka {
     width: 31%;
 }
